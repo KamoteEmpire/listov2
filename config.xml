@@ -42,9 +42,5 @@
 	
 	<preference name="android-minSdkVersion" value="14" />
 	
-	<preference name="fullscreen" value="false" />
-	<preference name="android-windowSoftInputMode" value="stateVisible" />
-	<gap:config-file platform="android" parent="/manifest/application">
-        android:windowSoftInputMode="stateVisible"
-	</gap:config-file>
+	
 </widget>
